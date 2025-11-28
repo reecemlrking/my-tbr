@@ -1,0 +1,16 @@
+# User Stories
+- US 01.01 - As a USER I want to view my list of books I want to read (my TBR).
+	- US 01.02 - As a USER I want to add books to my TBR.
+	- US 01.03 - As a USER I want to remove books from my TBR.
+- US 02.01 - As a USER I want to view my list of books I have read.
+	- US 02.02 - As a USER I want to remove books from my list of books I've read.
+- US 03.01 - As a USER I want to move books from my TBR to my read list.
+- US 04.01 - As a USER I want to search for books in the app/website.
+- US 05.01 - As a USER I want to scan a book's ISBN barcode to view its details in the app.
+- US 06.01 - As a USER I want to add notes to a book.
+- US 07.01 - As a USER I want to rate books.
+- US 08.01 - As a USER I want to sort books (a-z by title/author, rating, recent, etc.).
+- US 09.01 - As a USER I want to review books (maybe public).
+- US 10.01 - As a USER I want to add books to list of owned books.
+- US 11.01 - As a USER I want to create libraries to organize my books.
+- US 12.01 - As a USER I want to add books to in-progress list.

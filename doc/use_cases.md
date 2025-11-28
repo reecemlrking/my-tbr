@@ -1,0 +1,15 @@
+# App Use Cases
+- View a list of books you want to read.
+- View a list of books you have read.
+- Scan a book's ISBN barcode to view details in the app.
+- Search for books by Author, Title, Genre, etc.
+- Add books to your TBR list.
+- Move books from TBR to read list.
+- remove books from TBR/read list.
+- Add notes to books.
+- Rate books
+- Sort books in various ways (a-z by title or author, rating, recent, etc.).
+- Review books (maybe public).
+- Add books to list of owned books (sort by format).
+- Make libraries to further organize books.
+- Add books to in-progress list.
